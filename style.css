@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    background: #ffd2d2;
+}
+
+.container{
+    width: 992px;
+    background: white;
+    padding: 15px;
+    margin: 43px auto 0;
+    border-radius: 25px;
+}
+
+.container img{
+    display: block;
+    width: 100%;
+}
+
+.table-1{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.table-2{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+}
